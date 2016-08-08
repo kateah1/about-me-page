@@ -12,6 +12,7 @@ header {
 header p {
   margin-bottom: 0.1em;
   font-size: 1.5em;
+  font-family: verdana;
 }
 header h1 {
   margin-top: -0.2em;
@@ -68,13 +69,6 @@ li {
   padding: .3em;
   margin: 0 80px;
   font-size: 1.5em;
-  border: 2px solid #fff;
-  border-radius: 15px;
-  background-color: rgba(255,255,255,.2);
-}
-footer p {
-  text-align: right;
-  margin-right: 20px;
 }
 footer a {
   color: #3DCCCC;
